@@ -1,0 +1,8 @@
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\BE\bin\Debug\BE.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\BE\bin\Debug\BE.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\BE\obj\Debug\BE.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\BE\obj\Debug\BE.pdb
+C:\Segundo Parcial Practico\BE\bin\Debug\BE.dll
+C:\Segundo Parcial Practico\BE\bin\Debug\BE.pdb
+C:\Segundo Parcial Practico\BE\obj\Debug\BE.dll
+C:\Segundo Parcial Practico\BE\obj\Debug\BE.pdb

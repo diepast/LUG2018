@@ -1,0 +1,9 @@
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Helper\bin\Debug\Helper.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Helper\bin\Debug\Helper.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Helper\obj\Debug\Helper.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Helper\obj\Debug\Helper.pdb
+C:\Segundo Parcial Practico\Helper\bin\Debug\Helper.dll
+C:\Segundo Parcial Practico\Helper\bin\Debug\Helper.pdb
+C:\Segundo Parcial Practico\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Segundo Parcial Practico\Helper\obj\Debug\Helper.dll
+C:\Segundo Parcial Practico\Helper\obj\Debug\Helper.pdb

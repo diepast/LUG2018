@@ -1,0 +1,34 @@
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Segundo Parcial Practico.exe
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Segundo Parcial Practico.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BE.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BLL.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BE.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BLL.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.csprojResolveAssemblyReference.cache
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo_Parcial_Practico.Properties.Resources.resources
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.csproj.GenerateResource.Cache
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.exe
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo_Parcial_Practico.Facturar.resources
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\DAL.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Helper.dll
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\DAL.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Helper.pdb
+C:\Users\vsijocub\Desktop\FACU\LUG\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo_Parcial_Practico.Venta.resources
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.exe
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.pdb
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Segundo Parcial Practico.exe
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Segundo Parcial Practico.pdb
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BE.dll
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BLL.dll
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\DAL.dll
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Helper.dll
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BE.pdb
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\BLL.pdb
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\DAL.pdb
+C:\Segundo Parcial Practico\Segundo Parcial Practico\bin\Debug\Helper.pdb
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.csprojResolveAssemblyReference.cache
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo_Parcial_Practico.Facturar.resources
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo_Parcial_Practico.Properties.Resources.resources
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo_Parcial_Practico.Venta.resources
+C:\Segundo Parcial Practico\Segundo Parcial Practico\obj\Debug\Segundo Parcial Practico.csproj.GenerateResource.Cache
